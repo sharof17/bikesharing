@@ -43,4 +43,4 @@ The most popular places for Citibike customers to end their journeys in New York
   
 ## Summary: 
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
-The majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+The majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. 
